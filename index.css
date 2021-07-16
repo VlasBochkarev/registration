@@ -1,0 +1,31 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgba(0, 255, 255, 0.281);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(148, 20, 20);
+}
+
+input {
+    border-radius: 5px;
+    text-align: center;
+}
+
+button {
+    width: 200px;
+    border-radius: 10px;
+}
+
+.reg,
+.result {
+    font-size: larger;
+    padding: 10px;
+    clear: both;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+}
